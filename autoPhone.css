@@ -1,0 +1,175 @@
+/* Navigation Bar */
+
+#navbar{
+    flex-direction: column;
+    height : 130px;
+}
+
+#navlogo{
+    width: 100%;
+}
+
+.items a{
+    margin: 0px 5px;
+    font-size: 1rem;
+}
+
+div#navItems{
+    width: 100%;
+}
+
+/* Home Section */
+
+#home div{
+    margin-top: 22px;
+    padding: 0px 15px;
+}
+
+#home h3{
+    font-size: 30px;
+}
+
+#home h1{
+    font-size: 56px;
+}
+
+#home h4{
+    font-size: 25px;
+}
+
+#homebtn{
+    height: 40px;
+    width: 115px;
+    padding: 5px;
+    margin: 10px;
+}
+
+/* Services Section */
+
+#services{
+    margin: 15px 0px;
+}
+
+#services h1{
+    font-size: 35px;
+}
+
+#serviceheading{
+    font-size: 12px;
+}
+
+#servicecontainer{
+    flex-direction: column;
+    margin: 16px 16px;
+}
+
+.servicecontainerbox{
+    width:85%;
+}
+
+.box{
+    width: 50%;
+    height: 18.2rem;
+}
+
+.seviceimage {
+    margin-bottom: 10px;
+}
+
+.box h3{
+    font-size: 20px;
+    padding: 5px 5px;
+}
+
+.box p{
+    padding: 5px 5px;
+}
+
+/* Experience Section */
+
+#experience{
+    flex-wrap: wrap-reverse;
+}
+
+#expimage{
+    width: 100%;
+}
+
+#paradiv{
+    width: 100%;
+    margin: 34px;
+}
+
+#exppara h1{
+    font-size: 35px;
+}
+
+#exppara h3{
+    font-size: 18px;
+}
+
+#exppara ul{
+    margin-top: 15px;
+}
+
+#exppara button{
+    width: 115px;
+    height: 40px;
+    margin-top: 35px;
+}
+
+/* Shop Section */
+
+#shop{
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+#shop h1{
+    font-size: 35px;
+}
+
+#shop h3{
+    margin: 5px 10px;
+    font-size: 15px;
+}
+
+/* Stats Section */
+
+#stat{
+    height: 700px;
+}
+
+#stat h1{
+    margin-top: 10px;
+    font-size: 35px;
+}
+
+#stat h3{
+    font-size: 15px;
+    margin: 5px 10px;
+}
+
+/* Footer Section */
+
+#footer1{
+    flex-wrap: wrap;
+}
+
+.footer1para p{
+    font-size: 16px;
+}
+
+.footer1para h2{
+    font-size: 25px;
+}
+
+#footer2{
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+#footer2box1 button{
+    height: 40px;
+    width: 115px;
+}
